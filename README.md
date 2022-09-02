@@ -1,2 +1,1 @@
-# BERT-Text-Classification
-Classifying text using BERT - TensorFlow
+![BERT Architecture](imgs/BERT_Layer.png)
